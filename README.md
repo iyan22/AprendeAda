@@ -2,7 +2,6 @@
 
 ### Español:
 Estos ejercicios son parte de la asignatura Programación Básica dada el primer curso de Ingeniería Informática e Inteligencia Artificial en la UPV/EHU.
-The statments are in Spanish.
 
 Los conceptos tratados son los siguientes:
 - Declararación de variables
@@ -17,6 +16,24 @@ Los conceptos tratados son los siguientes:
 - Listas de nodos (ligadas)
 
 A parte de los ejercicios, en la carpeta 4inline podrás encontrar el juego 4 en raya basado en el terminal de Windows. Puede que únicamente puedas ejecutarlo en Windows debido a algunas dependencias para poner color en el terminal.
+
+
+### Euskara:
+Ariketa hauek Oinarrizko Programazioa irakasgaiaren parte dira, UPV/EHUn Informatika Ingeniaritza eta Adimen Artifiziala lehenengo ikasturtean egin baitziren.
+
+Honako hauek dira landutako kontzeptuak:
+- Aldagaiak aitortzea
+- Aldagai motak
+- Castinga
+- Baldintzazko sententziak
+- Baldintza errepikakorrak (bukleak)
+- Arrayak (dimentsio bakarrekoak eta dimentsio anitzekoak)
+- Arrayetan oinarritutako zerrendak
+- Erregistroak
+- Oinarrizko datu-egiturak
+- Nodoen zerrendak (lotuak)
+
+Ariketez gain, 4inline karpetan Marrako 4 jokoa aurkitu ahal izango duzu, Windows-en terminalean oinarrituta. Baliteke Windowsen bakarrik exekutatu ahal izatea terminalean kolorea jartzeko dependentzia batzuk direla eta.
 
 
 
